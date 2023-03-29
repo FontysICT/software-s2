@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+baseurl: software-s2
+plugins:
+  - jekyll-sitemap

@@ -1,4 +1,4 @@
-Documentation FICT Software Demand Based - Semester 2
+Software Demand Based - Semester 2
 =====================================
 
 Software engineering is an integral process where you start with a problem, from which a suitable product must be designed and implemented. The biggest challenge is getting a clear vision what the problem is, and how to fix it in the most applicable manner. Most applicable' because the goal is not to always find the most perfect solution to the problem itself, but to manage all considerations related to the context of the problem, and then finding the sweet spot. 

@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-baseurl: s2-db-documentatie
+baseurl: software-s2
 plugins:
   - jekyll-sitemap

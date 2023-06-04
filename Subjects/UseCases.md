@@ -3,11 +3,11 @@ Use Cases
 
 Op basis van een UI-schets schetsen zijn use cases op te stellen die precies aangeven hoe de interactie met het systeem plaatsvindt. Alhoewel er geen exacte richtlijn te geven is, zijn handelingen die neerkomen op het wisselen van schermen of pagina’s typisch geen eigen use case maar stappen hierbinnen. Een use case wordt gebruikt om handelingen die de toestand (gegevens) van het systeem gebruiken of beïnvloeden te documenteren.
 
-In de tabel hieronder is een voorbeeld te zien van een uitgewerkte use case, overeenkomstig met een van de eerder getoonde [UI schets](UI-Schetsen). De use case beschrijft hoe de functionele [requirement](Requirements) precies vervuld kan worden. Er wordt vanuit gegaan dat er standaard geen problemen optreden bij het uitvoeren van de use case; dit wordt ook wel de “happy flow” genoemd. 
+In de tabel hieronder is een voorbeeld te zien van een uitgewerkte use case, overeenkomstig met een van de eerder getoonde [UI schets](Wireframes). De use case beschrijft hoe de functionele [requirement](Requirements) precies vervuld kan worden. Er wordt vanuit gegaan dat er standaard geen problemen optreden bij het uitvoeren van de use case; dit wordt ook wel de “happy flow” genoemd. 
 
 Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een uitzondering genummerd bij aangemerkt. In dit voorbeeld is per uitzondering aangegeven welke beperking ondervangen wordt; ook de use case zelf is voorzien van een identificatie.
 
-###Requirements
+## Requirements
 
     FR-01 De gebruiker moet een overzicht van alle verkopen kunnen inzien.
         B-01.1 Overzichten van verkopen zijn op maanden, kwartalen of jaren.
@@ -19,7 +19,7 @@ Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een 
         anders is deze altijd het moment van invoeren.
         FR-03 Het is mogelijk om geld terug te geven aan klanten (voor het ruilen van artikelen).
 
-###Use-case beschrijving
+## Use-case beschrijving
 
 |*Naam*|UC01: Nieuwe verkoop toevoegen|
 |----|------------------------|
@@ -30,12 +30,12 @@ Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een 
 |*Uitzonderingen*|<ol><li>Niet alle benodigde gegevens zijn ingevuld. Toon een melding en ga terug naar stap 3. (B-02.2)</li><li>De verkoopdatum is aangepast en de actor is geen leidinggevende. Zet de datum op de huidige datum en tijd en ga verder met de use case. (B-02.3)</li></ol>|
 |*Resultaat*|Er is een nieuwe verkoop toegevoegd aan het systeem.|
 
-###Use-case diagrammen
+## Use-case diagrammen
 
 Als je meerdere use-cases hebt, kan het zinvol zijn deze in een diagram weer te geven (zie Figuur 1). Hiermee kan goed worden getoond welke use-cases bij welke actoren horen. De waarde van zo'n diagram is beperkt, maar kan in sommige gevallen een aardig overzicht geven. Het is in geen geval een vervanging van de Use-Case Beschrijvingen. 
 
 <figure>
-    <img src="{{site.url}}/{{site.baseurl}}/Use Case Diagram.png" alt="Figuur 1: Voorbeeld van een Use Case diagram">
+    <img src="{{site.url}}/{{site.baseurl}}/img/use-case-diagram.png" alt="Figuur 1: Voorbeeld van een Use Case diagram">
     <figcaption>Figuur 1: Voorbeeld van een Use Case diagram</figcaption>
 </figure>
 

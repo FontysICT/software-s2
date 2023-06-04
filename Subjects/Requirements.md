@@ -4,7 +4,7 @@ Requirements
 Een functionele requirement beschrijft de handelingen die verricht kunnen worden met de applicatie. Iedere functionele requirement kan kwaliteitseisen en beperkingen bevatten die een
 afbakening geven. 
 
-### Verzamelen van requirements
+## Verzamelen van requirements
 Je kunt de eisen aan je systeem op meedere manier verzamelen:
 
 * Interviews met stakeholders, zoals opdrachtgever en eindgebruiker;
@@ -13,7 +13,7 @@ Je kunt de eisen aan je systeem op meedere manier verzamelen:
 * Door middel van *Prototyping* en de feedback die je daarop krijgt;
 * Een focusgroep.
 
-### Documenteren van requirements
+## Documenteren van requirements
 Nadat je de eisen hebt geïnventariseerd kun je ze gaan documenteren. In eerste instantie kun je ze grofmazig opschrijven. We gebruiken in de volgende voorbeelden een simple verkoopsysteem. 
 
 Dit is een voorbeeld van een requirement vastgelegd als User Story:
@@ -40,7 +40,7 @@ Een alternatieve manier om requirements op te schrijven zie je hier:
         B-03.1 Alleen leidinggevenden zijn in staat om geld terug te geven aan klanten.
     K-ALG.01 Bij onjuiste invoer moet een duidelijke foutmelding getoond worden.
 
-### Prioriteren van requirements
+## Prioriteren van requirements
 
 Wat niet getoond is in dit overzicht, is de prioritering van de requirements. Niet alles is even belangrijk en omdat er altijd sprake is van deadlines en beperkte budgetten moeten keuzes worden gemaakt. Om de meest relevante requirements op te kunnen leveren en dus ook je planning op orde te hebben, wordt iedere requirement voorzien van een prioriteit. Hoe de prioriteit uiteindelijk tot stand komt maakt niets uit; er wordt hoe dan ook begonnen met het uitwerken, ontwerpen en bouwen van de meest belangrijke feature.
 

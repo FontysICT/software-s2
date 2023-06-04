@@ -6,13 +6,13 @@ Het belangrijkste doel van software analyse is helder krijgen welke functionalit
 ## Onderwerpen 
 
 1. [Requirements verzamelen, vastleggen en prioriteren](Requirements)
-2. [Maken van UI-schetsen](UI-Schetsen)
+2. [Maken van Wireframes/UI-schetsen](Wireframes)
 3. [Use Cases opstellen](UseCases)
 4. [Test Cases formuleren en een testmatrix opstellen](TestCases)
 
 ## Analysedocumnentatie
 
-De resultaten van de hierbovenstaande activiteiten kun je op een aantal manieren vastleggen. Afhankelijk van de [projectmethode](Methodiek) die je volgt gebeurt dat meer of minder formeel.
+De resultaten van de hierbovenstaande activiteiten kun je op een aantal manieren vastleggen. Afhankelijk van de gekozen [projectmethode](SoftwareProcessMethods) die je volgt gebeurt dat meer of minder formeel.
 
 ## Wanneer is de analyse klaar?
 

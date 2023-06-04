@@ -15,27 +15,27 @@ De waterval-aanpak wordt ook wel als BDUF (Big Design Up Front) gekarakteriseerd
 
 Hoewel deze methodiek een nette scheiding van de verschillende activiteiten beloofd, is het in de praktijk niet zo netjes te schieden, waardoor er allerlei problemen optreden als er veranderingen in [requirements](Requirments) zijn, iets dat bijna altijd voorkomt.
 
-### Iteratief
+## Iteratief
 
 Om de grote problemen van een waterval-project aan te pakken werd er gekeken naar andere aanpakken. Het [RUP](https://nl.wikipedia.org/wiki/Rational_Unified_Process)-proces is een voorbeeld van een proces waarin een incrementele aanpak wordt voorgesteld. Er wordt nog wel een grote nadruk gelegd op documentatie, en er wordt gefaseerd gewerkt, maar het cyclishe karakter van een RUP-project geeft al wel meer mogelijkheden om tijdens het project bij te sturen.
 
 <figure>
-    <img src="{{site.url}}/{{site.baseurl}}/img/Development-iterative.png" alt="Figuur 1: Iteratief ontwikkelen in RUP">
+    <img src="{{site.url}}/{{site.baseurl}}/img/development-iterative.png" alt="Figuur 1: Iteratief ontwikkelen in RUP">
     <figcaption>Figuur 1: Iteratief ontwikkelen in RUP</figcaption>
 </figure>
 
-### Agile
+## Agile
 
 Een van de nadelen van een aanpak als RUP en aanverwante processen is dat het een vrij topzwaar proces is. Eind jaren negentig van de vorige eeuw kwamen ook allerlei principes en werkwijzes in zwang die probeerden op een nog slimmere manier software te ontwikkelen. 
 
 Dit leidde begin deze eeuw, 2001 om precies te zijn, tot het opstellen van het [Agile manifest](http://agilemanifesto.org/iso/nl/manifesto.html). Opgesteld en ondertekend door een aantal bekende namen uit de wereld van softwareontwikkeling beschrijft dit document een aantal kernwaarden die leiden tot goede software:
 
-**Mensen en hun onderlinge interactie** boven processen en hulpmiddelen
-**Werkende software** boven allesomvattende documentatie
-**Samenwerking met de klant** boven contractonderhandelingen
-**Inspelen op verandering** boven het volgen van een plan
+- **Mensen en hun onderlinge interactie** boven processen en hulpmiddelen
+- **Werkende software** boven allesomvattende documentatie
+- **Samenwerking met de klant** boven contractonderhandelingen
+- **Inspelen op verandering** boven het volgen van een plan
 
-Hierbij moet worden opgemerkt dat Agile niet betekent dat er zonder plan of documentatie gewerkt wordt, maar veeleer dat de nadruk op andere zaken ligt. In dit kader is [Software Craftmanship](Craftmanship) erg belangrijk.
+*N.B. Hierbij moet worden opgemerkt dat Agile niet betekent dat er zonder plan of documentatie gewerkt wordt, maar veeleer dat de focus meer op andere zaken ligt. Je documenteert dat wat nodig is, en alleen dat.*
 
 
 

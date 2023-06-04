@@ -22,7 +22,7 @@ Om de grote problemen van een waterval-project aan te pakken werd er gekeken naa
 <figure>
     <img src="{{site.url}}/{{site.baseurl}}/img/development-iterative.png" alt="Figuur 1: Iteratief ontwikkelen in RUP">
     <figcaption>Figuur 1: Iteratief ontwikkelen in RUP</figcaption>
-</figure>
+</figure> 
 
 ## Agile
 

@@ -13,7 +13,7 @@ Het ontikkelproces als waterval werd voor het eerste beschreven door Winstron Ro
 
 De waterval-aanpak wordt ook wel als BDUF (Big Design Up Front) gekarakteriseerd. Er is een grote nadruk op het uitgebreid vastleggen van alle gegvens in elke fase. Na afronding van elke fase wordt normaal een formeel akkoord gegeven, waarna pas verder mag worden gegaan met de volgende fase.
 
-Hoewel deze methodiek een nette scheiding van de verschillende activiteiten beloofd, is het in de praktijk niet zo netjes te schieden, waardoor er allerlei problemen optreden als er veranderingen in [requirements](Requirments) zijn, iets dat bijna altijd voorkomt.
+Hoewel deze methodiek een nette scheiding van de verschillende activiteiten beloofd, is het in de praktijk niet zo netjes te schieden, waardoor er allerlei problemen optreden als er veranderingen in [requirements](Requirements) zijn, iets dat bijna altijd voorkomt.
 
 ## Iteratief
 

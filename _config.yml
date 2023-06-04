@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 baseurl: software-s2
+title: Software Semester 2
+description: Documentatie van de onderwerpen van software semester 2
 plugins:
   - jekyll-sitemap

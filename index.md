@@ -8,11 +8,9 @@ Denk daarbij bijvoorbeeld aan zaken als:
 - Kosten 
     - *Voor de initiele ontwikkeling, hosting, onderhoud*
 - 'Time to Market'
-     - *Wanneer moet het live staan?*
-- Kwaliteitseisen 
+    - *Wanneer moet het live staan?*
 - Technische Beperkingen/Constraints
     - *Misschien is techniek A het meest geschikt voor een oplossing, maar gebruikt een opdrachtgever alleen techniek B.*
-- Benodigde Performance
 - Onderhoudbaarheid en overdraagbaarheid 
     - *Wie moet het gaat onderhouden? wat is daar voor nodig?*
 

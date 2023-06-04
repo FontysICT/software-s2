@@ -5,10 +5,16 @@ Software engineering is een integraal proces waarbij vanuit een probleemomschrij
 Daarna is het doel om te zoeken naar de meest optimale oplossing. En meest optimaal betekent niet de meest 'perfecte'. Er zijn namelijk vele factoren van invloed, en er moet rekening gehouden worden met verschillende stakeholders (mensen die op een of andere wijze een rol spelen in het project), en de meest optimale oplossing neemt al die factoren, en de wensen/eisen van de stakeholders mee. 
 
 Denk daarbij bijvoorbeeld aan zaken als:
-- Kosten *(voor de initiele ontwikkeling, hosting, onderhoud)*
+- Kosten 
+    - Voor de initiele ontwikkeling, hosting, onderhoud
+- 'Time to Market'
+     - Wanneer moet het live staan? 
 - Kwaliteitseisen 
+- Technische Beperkingen/Constraints
+    - Misschien is techniek A het meest geschikt voor een oplossing, maar gebruikt een opdrachtgever alleen techniek B.
 - Benodigde Performance
-- Onderhoudbaarheid en overdraagbaarheid *(Wie moet het gaat onderhouden? wat is daar voor nodig?)*
+- Onderhoudbaarheid en overdraagbaarheid 
+    - Wie moet het gaat onderhouden? wat is daar voor nodig?
 
 Dit alles is de context van het project, en dit is leidend bij het onderzoek naar de optimale oplossing(en).
 

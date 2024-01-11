@@ -1,0 +1,13 @@
+@page
+@model GarbageCollection.RazorPages.Pages.Schema.Index
+
+<h2>Beschikbare bedrijven</h2>
+<a asp-page="/Schema/New">Voeg nieuwe toe</a>
+
+
+<ul>
+    @foreach (var company in Model.ViewModel.Companies)
+    {
+        <li><a asp-page="Details" asp-route-id="@company.CompanyName">@company.CompanyName - @company.LocationCompanyActive</a></li>
+    }
+</ul>

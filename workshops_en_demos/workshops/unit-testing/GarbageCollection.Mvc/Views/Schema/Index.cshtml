@@ -1,0 +1,15 @@
+@model GarbageCollection.Mvc.Models.SchemasViewModel
+
+@{
+    ViewBag.Title = "Bedrijven";
+}
+
+<h2>Beschikbare bedrijven</h2>
+<a asp-action="New">Voeg nieuwe toe</a>
+
+<ul>
+    @foreach (var company in Model.Companies)
+    {
+        <li><a asp-action="Details" asp-route-id="@company.CompanyName" >@company.CompanyName - @company.LocationCompanyActive</a></li>
+    }
+</ul>

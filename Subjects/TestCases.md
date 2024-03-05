@@ -14,7 +14,7 @@ het systeem al gemodelleerd is in de use cases, zullen test cases altijd aan use
 
 Bij het voorbeeld is dit niet het geval, maar het is prima mogelijk om in een testplan een volgorde aan te brengen. Een voorbeeld hiervan is het testen van het registreren en inloggen van gebruikers. Als eerste kan een account aangemaakt worden, waarbij het registreren getest wordt. Deze aangemaakte account wordt vervolgens gebruikt om het inloggen mee te testen. Op deze manier zijn test cases eenvoudiger uit te voeren omdat er geen afhankelijkheid van bestaande data is. Zorg er wel voor dat in het testplan duidelijk is dat bepaalde cases elkaar dienen op te volgen.
 
-###Testmatrix
+### Testmatrix
 
 Na het opstellen van de test cases is het mogelijk om een terugkoppeling te maken naar de
 requirements. Hiervoor kan een test matrix opgesteld worden, waarin per test case aangegeven

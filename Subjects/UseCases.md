@@ -26,8 +26,14 @@ Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een 
 |*Samenvatting*|Na het ingeven van de vereiste gegevens wordt dit als verkoop aan het systeem toegevoegd.|
 |*Actors*|Verkoper, Leidinggevende|
 |*Aannamen*|Geen|
-|*Scenario*|<ol><li>De actor geeft aan een nieuwe verkoop te willen toevoegen</li><li>Het systeem toont een pagina waarop de gegevens ingevuld kunnen worden (zie B-02.1).</li><li>De actor voert zijn gebruikersidentificatie en de gevraagde gegevens in en bevestigt.</li><li>Het systeem controleert de ingevoerde gegevens en voegt de verkoop toe. [1][2]</li></ol>|
-|*Uitzonderingen*|<ol><li>Niet alle benodigde gegevens zijn ingevuld. Toon een melding en ga terug naar stap 3. (B-02.2)</li><li>De verkoopdatum is aangepast en de actor is geen leidinggevende. Zet de datum op de huidige datum en tijd en ga verder met de use case. (B-02.3)</li></ol>|
+|*Scenario*|
+1. De actor geeft aan een nieuwe verkoop te willen toevoegen
+2. Het systeem toont een pagina waarop de gegevens ingevuld kunnen worden (zie B-02.1).
+3. De actor voert zijn gebruikersidentificatie en de gevraagde gegevens in en bevestigt.
+4. Het systeem controleert de ingevoerde gegevens en voegt de verkoop toe. [1][2]|
+|*Uitzonderingen*|
+1. Niet alle benodigde gegevens zijn ingevuld. Toon een melding en ga terug naar stap 3. (B-02.2)
+2. De verkoopdatum is aangepast en de actor is geen leidinggevende. Zet de datum op de huidige datum en tijd en ga verder met de use case. (B-02.3)
 |*Resultaat*|Er is een nieuwe verkoop toegevoegd aan het systeem.|
 
 ## Use-case diagrammen

@@ -41,7 +41,7 @@ Als je meerdere use-cases hebt, kan het zinvol zijn deze in een diagram weer te 
 
 In het diagram zie je drie actoren (twee rollen en een extern systeem) en een viertal use-cases. In principe wordt er geen volgordelijkheid aangegeven in een use-case diagram.
 
-###Bronnen
+### Bronnen
 Om meer over use-cases te weten te komen kun je de volgende bronnen raadplegen:
 
 * De oefening [Use Cases opstellen in Canvas](https://fhict.instructure.com/courses/8648/assignments/129651)
